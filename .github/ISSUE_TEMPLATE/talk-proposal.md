@@ -1,24 +1,24 @@
 ---
 name: Talk Proposal
 about: Basic structure of a talk proposal
-title: ''
+title: 'Talk Title: <enter title of your talk here>'
 labels: ''
 assignees: ''
 
 ---
 
-# Talk Title *
+## Talk Title *
 
-# Summary
+## Summary
 
-# Time Required *
+## Time Required *
 
-# Link to Slides/Content
+## Link to Slides/Content
 
-# About you *
+## About you *
 
-# Your Availability within the next 2 months *
+## Your Availability within the next 2 months *
 
-# Contact/Social Handles (Telegram/Email/Twitter/LinkedIn) *
+## Contact/Social Handles (Telegram/Email/Twitter/LinkedIn) *
 
-# Additional Notes/Comments
+## Additional Notes/Comments
